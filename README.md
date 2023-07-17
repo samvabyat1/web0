@@ -12,3 +12,7 @@
 - **web2**
   - [repo](https://github.com/samvabyat1/web2)
   - [site](https://samvabyat1.github.io/web2)
+
+- **web3**
+  - [repo](https://github.com/samvabyat1/web3)
+  - [site](https://samvabyat1.github.io/web3)
