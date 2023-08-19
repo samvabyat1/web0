@@ -1,4 +1,4 @@
-# Ultra UI Designs - Compilation
+# 1D UI Designs - Compilation
 
 ```
 [use desktop for best viewing experience]
